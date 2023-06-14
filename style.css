@@ -81,25 +81,25 @@ animation-fill-mode: both;
 animation-delay: 0s;
 }
 .box1{
-animation-delay: 1s;
+animation-delay: 0.5s;
 }
 .box2{
-animation-delay: 2s;
+animation-delay: 1s;
 }
 .box3{
-animation-delay: 3s;
+animation-delay: 1.5s;
 }
 .box4{
-animation-delay: 4s;
+animation-delay: 2s;
 }
 .box5{
-animation-delay: 5s;
+animation-delay: 2.5s;
 }
 .box6{
-animation-delay: 6s;
+animation-delay: 3s;
 }
 .box7{
-animation-delay: 7s;
+animation-delay: 3.5s;
 }
 @keyframes move-object {
   0% {
